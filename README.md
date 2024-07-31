@@ -38,6 +38,6 @@ You can view the deployed app here :[Predective maintaianace of Gas Turbine](htt
   The application will display whether the machine is predicted to experience failure or not.
 
 ## Authors
-- [Shruti Gumgaonkar](https://github.com/daydroidmuchiri)
+- [Shruti Gumgaonkar](https://github.com/shruti280401)
  
 
