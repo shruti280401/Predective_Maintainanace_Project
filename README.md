@@ -26,18 +26,18 @@ You can view the deployed app here :[Predective maintaianace of Gas Turbine](htt
   "Fuel flow (mf) [kg/s]"
   "GT Turbine decay state coefficient."
 
-##Running the Application
+## Running the Application
   Navigate to the cloned repository in your terminal or command prompt, then run the following command:
       streamlit run app.py
  This will launch the application in your web browser.
 
-##Application Workflow
+## Application Workflow
    1) Upon launching the application, you will see an input form with various fields corresponding to the features in the dataset.
   2)Provide the required inputs in the form. Select provide Gas Generator rate of revolutions (GGn) in rpm,HP Turbine exit temperature (T48) in [C],Gas Turbine exhaust gas pressure (Pexh) in bar.
   3)Click on the "Predict Failure" button to make a prediction.
   The application will display whether the machine is predicted to experience failure or not.
 
-##Authors
+## Authors
 - [Shruti Gumgaonkar](https://github.com/daydroidmuchiri)
  
 
