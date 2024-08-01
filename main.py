@@ -44,8 +44,6 @@ def main():
             'PEXH': [PEXH]
         })
 
-        # Convert categorical data to dummy/indicator variables if needed
-        # input_data = pd.get_dummies(input_data)
 
         # Make predictions
         prediction = model.predict(input_data)
